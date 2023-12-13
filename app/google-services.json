@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623516042466",
+    "project_id": "practica-76ce6",
+    "storage_bucket": "practica-76ce6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623516042466:android:f393bb36f798648c808abb",
+        "android_client_info": {
+          "package_name": "com.miempresa.practicacalificada4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6UxYuiHj5gXugSnnidITDSoQxsmfL9qE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
